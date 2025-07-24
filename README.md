@@ -46,8 +46,6 @@ jalankan script dengan perintah:
 ```bash
 npm start
 ```
-
-![Foto](https://files.catbox.moe/1advpt.jpg)
 kemudian ikuti instruksi:
 
 1. masukkan **judul lagu** (misal: `kamin`)    
@@ -75,14 +73,6 @@ music/
 ## Credit
 
 - dibuat oleh: [**HanX - ID**](https://github.com/HanX-ID)
-- upload: **26 Juni 2025**
-- dependensi utama:
-  - `yt-search`
-  - `axios`
-  - `chalk`
-  - `node-id3`
-  - `crypto`
-  - `readline`
-  - `fs`, `path`
+- update: **24 juli 2025**
 
 ---
