@@ -1,13 +1,17 @@
 {
-  "name": "Music",
+  "name": "youtube-downloader",
+  "version": "1.0.0",
+  "description": "Simple YouTube audio downloader",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
+  "author": "HanX - ID",
+  "license": "MIT",
   "dependencies": {
-    "axios": "^1.6.8",
+    "axios": "^1.7.2",
     "chalk": "^4.1.2",
-    "node-id3": "^0.2.9",
-    "yt-search": "^2.10.7"
+    "node-id3": "^0.2.6",
+    "yt-search": "^2.10.4"
   }
 }
